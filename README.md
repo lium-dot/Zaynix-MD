@@ -25,7 +25,7 @@
   </a>  <hr style="border-top: 2px solid #3F00FF;">  <h3>2️⃣ (Pair Code )</h3>
   <a href="https://zaynix-lair-xode.onrender.com?" target="_blank">
     <img alt="Pair Code Login" src="https://img.shields.io/badge/🔑%20PAIR%20CODE%20LOGIN-%2300BFFF?style=for-the-badge&logo=link&logoColor=white" width="200">
-  </a>  <hr style="border-top: 2px solid #3F00FF;">  <h3>3️⃣ Deployment Options</h3>  <h4>CREATE PANEL ACCOUNT</h4>
+  </a>  <hr style="border-top: 2px solid #3F00FF;">  <h3>3️⃣ Deployment Options</h3>
   
 <h3>🚀 Deploy to Koyeb</h3>
 <a href="https://app.koyeb.com/deploy?name=romek-xd-v2&repository=Zaynixdev%2FZaynix-MD&branch=main&builder=dockerfile&instance_type=free&env[SESSION_ID]=&env[MONGODB]=mongodb%2Bsrv%3A%2F%2Foyysreejan8%3Ar9f3q8OpBE9UdFEv%40cluster0.h3mzhuz.mongodb.net%2F%3FretryWrites%3Dtrue%26w%3Dmajority%26appName%3DCluster0&env[OMDB_API_KEY]=76cb7f39&env[BOT_NAME]=Zaynix-MD&env[AUTO_STATUS_SEEN]=true&env[AUTO_STATUS_REPLY]=true&env[AUTO_STATUS_REACT]=true&env[AUTO_REACT]=true&env[AUTO_REPLY]=true&env[READ_MESSAGE]=true&env[DELETE_LINKS]=true&env[CUSTOM_REACT]=true&env[PUBLIC_MODE]=true&env[ALWAYS_ONLINE]=true&env[AUTO_TYPING]=true&env[AUTO_RECORDING]=true&env[AUTO_VOICE]=true&env[AUTO_STICKER]=true&env[ANTI_LINK]=true&env[ANTI_LINK_KICK]=true&env[ANTI_BAD]=true&env[ANTI_VV]=true&env[CUSTOM_REACT_EMOJIS]=%F0%9F%92%9D%2C%F0%9F%92%96%2C%F0%9F%92%97%2C%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9%2C%E2%9D%A4%EF%B8%8F%2C%F0%9F%A7%A1%2C%F0%9F%92%9B%2C%F0%9F%92%9A%2C%F0%9F%92%99%2C%F0%9F%92%9C%2C%F0%9F%A4%8E%2C%F0%9F%96%A4%2C%E2%9D%A4%EF%B8%8F&env[OWNER_NUMBER]=92342758XXXX&env[PREFIX]=.&env[ANTI_DEL_PATH]=log&env[AUTO_STATUS_MSG]=*SEEN%20YOUR%20STATUS%20BY%20Zaynix-MD%20%F0%9F%A4%8D*&env[MODE]=public" target="_blank">
