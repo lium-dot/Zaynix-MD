@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
   // --- Required Core Configurations ---
-  SESSION_ID: process.env.SESSION_ID || "Zaynix-MD=dwpFzb5D#1M1iZuorJJy4KDpr6ckP2yDlUMa86puiE3DOlsI0Q3M", // Your session ID
+  SESSION_ID: process.env.SESSION_ID || "Zaynix-MD=QlZWkaLa#1RZLIgLL9gyrIMDopsv9FrrO9Lt16l7mdxps1xZdqMU", // Your session ID
   MONGODB: process.env.MONGODB || "mongodb+srv://oyysreejan8:r9f3q8OpBE9UdFEv@cluster0.h3mzhuz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", // Your MongoDB URL
 
   // --- Optional APIs ---
@@ -42,9 +42,9 @@ module.exports = {
   CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 
   // --- General Settings ---
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "92342758XXXX", // Your WhatsApp number
-  PREFIX: process.env.PREFIX || ".", // Command prefix
-  ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", // Resend deleted messages to 'log' or 'same'
-  AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY Zaynix-MD 🤍*", // Auto-reply text for status
-  MODE: process.env.MODE || "public" // public | private | group
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "254758443111", // Your WhatsApp number
+  PREFIX: process.env.PREFIX || ",", // Command prefix
+  ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", // Resend deleted messages to 'log' or 'same'
+  AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*Ꭿℒℒℰℕ ℐЅ ᏇᎯTℂℋℐℕᎶ👀ℐℕ ᎶℋᎾЅT ℳᎾⅅℰ👻*", // Auto-reply text for status
+  MODE: process.env.MODE || "private" // public | private | group
 };
