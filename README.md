@@ -21,10 +21,10 @@
 <div align="center" style="background: #f0f8ff; padding: 20px; border: 3px dashed #3F00FF; border-radius: 10px; margin: 20px 0; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   <h2 style="color: #3F00FF;">🚀 Deployment Steps</h2>  <h3>1️⃣ Fork This Repository</h3>
   <a href="https://github.com/Zaynixdev/Zaynix-MD/fork" target="_blank">
-    <img alt="Fork Repo" src="https://img.shields.io/badge/🍴%20FORK%20THIS%20REPO-black?style=for-the-badge&logo=github&logoColor=white" width="300">
+    <img alt="Fork Repo" src="https://img.shields.io/badge/🍴%20FORK%20THIS%20REPO-black?style=for-the-badge&logo=github&logoColor=white" width="200">
   </a>  <hr style="border-top: 2px solid #3F00FF;">  <h3>2️⃣ (Pair Code )</h3>
-  <a href="https://paircode-wxf4.onrender.com/pair/?" target="_blank">
-    <img alt="Pair Code Login" src="https://img.shields.io/badge/🔑%20PAIR%20CODE%20LOGIN-%2300BFFF?style=for-the-badge&logo=link&logoColor=white" width="300">
+  <a href="https://zaynix-lair-xode.onrender.com?" target="_blank">
+    <img alt="Pair Code Login" src="https://img.shields.io/badge/🔑%20PAIR%20CODE%20LOGIN-%2300BFFF?style=for-the-badge&logo=link&logoColor=white" width="200">
   </a>  <hr style="border-top: 2px solid #3F00FF;">  <h3>3️⃣ Deployment Options</h3>  <h4>CREATE PANEL ACCOUNT</h4>
   
 <h3>🚀 Deploy to Koyeb</h3>
